@@ -1,4 +1,4 @@
-# **Blog - UE <code> : Nom du cours**
+# **Blog - UE code : Nom du cours**
 
 ## Contexte
 
