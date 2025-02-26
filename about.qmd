@@ -12,14 +12,14 @@ about:
       href: http://www.linkedin.com/in/no%C3%A9mie-matrat-86a34a200/
     - icon: github
       text: Github
-      href: https://github.com/Clement-Poupelin/Statistique_en_grande_dimension
+      href: https://github.com/Clement-Poupelin/Blog_template
 ---
 
 <!-- Ajouter une description du blog (proche du README) + mettre photo de groupe sympa -->
 
 ## Contexte
 
-Ce blog est dédié à la reprise et des exercices de **Statistique en grande dimension** enseignée dans le cadre du **Master 2 IS** à **Nantes Université** pour l'année universitaire **2023-2024**.\
+Ce blog est dédié à la reprise et des exercices de **<Nom du cours>** enseignée dans le cadre du **Master 2 IS** à **Nantes Université** pour l'année universitaire **2023-2024**.\
 Il s'inscrit dans une démarche pédagogique visant à proposer des analyses claires, bien structurées et reproductibles en lien avec les thématiques abordées durant le cours.
 
 ## Objectif
