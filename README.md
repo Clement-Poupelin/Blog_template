@@ -1,8 +1,8 @@
-# **Blog - UE X3MS020 : Statistique en grande dimension**
+# **Blog - UE <code> : Nom du cours**
 
 ## Contexte
 
-Ce blog est dédié à la reprise et des exercices de **Statistique en grande dimension** enseignée dans le cadre du **Master 2 IS** à **Nantes Université** pour l'année universitaire **2023-2024**.\
+Ce blog est dédié à la reprise et des exercices de **Nom du cours** enseignée dans le cadre du **Master 2 IS** à **Nantes Université** pour l'année universitaire **2023-2024**.\
 Il s'inscrit dans une démarche pédagogique visant à proposer des analyses claires, bien structurées et reproductibles en lien avec les thématiques abordées durant le cours.
 
 ## Objectif
@@ -32,4 +32,4 @@ Les **rédacteurs** et **relecteurs** des articles sont mentionnés sur chaque d
 ## Accès au Blog
 
 Le blog est disponible en ligne à l’adresse suivante :\
-<https://clement-poupelin.github.io/Statistique_en_grande_dimension/>
+https://clement-poupelin.github.io/Blog_template/
